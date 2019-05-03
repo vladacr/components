@@ -1,0 +1,46 @@
+kind: ComponentConfiguration/v1
+metadata:
+  guid: bd3552ae-21e2-4740-905d-53dbaa1fdb8b
+  name: WemosD1 mini
+template:
+  name: Integrated Circuit 2
+  guid: 2cd49d7c-eb1a-4fe4-9104-c45023e3fc95
+properties:
+- name: Header
+  value: NodeMCU
+- name: Size
+  value: 16
+- name: Pin0
+  value: RST
+- name: Pin1
+  value: TX
+- name: Pin2
+  value: A0
+- name: Pin3
+  value: RX
+- name: Pin4
+  value: D0
+- name: Pin5
+  value: D1
+- name: Pin6
+  value: SD3
+- name: Pin7
+  value: D3
+- name: Pin8
+  value: D5
+- name: Pin9
+  value: D2
+- name: Pin10
+  value: D6
+- name: Pin11
+  value: D3
+- name: Pin12
+  value: D7
+- name: Pin13
+  value: D4
+- name: Pin14
+  value: D8
+- name: Pin15
+  value: G
+- name: Pin16
+  value: 3V3
